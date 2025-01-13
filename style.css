@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.main-section {
+    border-style: solid;
+    margin: 2% 8%;
+    background-color: wheat;
+    
+}
+
+.content {
+    margin: 0% 50% 10% 5%;
+}
+
+.header-line {
+    display: flex;
+    margin: 5% 25% 0% 5%;
+    border-bottom-style: solid;
+}
+
+.title-name {
+    font-size: 3em;
+    margin: 0%;
+}
+
+h3 {
+    color: green;
+    margin: 2% 0%;
+}
+
+h4 {
+    color: rgb(0, 0, 200);
+    margin: 2% 0% 0% 0%;
+}
+
+p {
+    margin: auto;
+}
+
+ul {
+    margin: 1% 3%;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+}
+
+a {
+    margin: 0% 2%;
+}
