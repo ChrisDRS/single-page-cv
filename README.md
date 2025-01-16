@@ -49,6 +49,10 @@ This project is a single-page CV created using HTML and CSS. It demonstrates the
 - [GitHub](https://github.com/ChrisDRS)
 - [LinkedIn](https://www.linkedin.com/in/cristian-romero-24041a215/)
 
+## Reference
+
+For more details about this project, visit [Single Page CV Project](https://roadmap.sh/projects/single-page-cv).
+
 ## Footer
 
 Made by **Cristian Romero**, powered by my **mind**.
